@@ -1,0 +1,11 @@
+INSTRUCTIONS
+
+The game starts when the user has 100 credits to pay and 5 credits to bet each round, these are just default values and the user can change them whenever he/she wants.
+The default mode is "1 line".
+When the user clicks the Spin button, the fruits on the reels will be shuffled, his winning money and credits left will be calculated based on the pay table at the top of the game.
+The game is over when the user runs out of credits to pay.
+
+Extra Features:
+1/ User can change the amount of money to use for each spin.
+2/ When the game is over, all the buttons and the spin boxes are disabled. After that, there will be a pop up window showing 2 options: if the user wants to play again or if he wants to quit.
+3/ All the UI of the game has been done only by coding. I think this also an extra feature because it forces me to learn much more about the Qt UI engine.
